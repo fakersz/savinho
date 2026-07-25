@@ -6,10 +6,10 @@
 declare(strict_types=1);
 
 $empresa      = 'Lógica Contabilidade';
-$empresaLegal = 'Lógica Contabilidade Ltda';
+$empresaLegal = 'Lógica Contabilidade';
 $cnpj         = '26.258.229/0001-14';
-$endereco     = 'Av. Simão Soares, 553 – Loja 02, Barra do Itapemirim, Marataízes – ES';
-$horario      = 'Segunda a sexta, das 8h às 17h';
+$endereco     = 'Rua Genésio de Oliveira, 104 - Rua ao Lado do JD Material de construção.';
+$horario      = 'Segunda a sexta, das 8:00h às 17h30m';
 $emailContato = 'administrativo@logicacontabilidade-es.com.br';
 
 // Número de WhatsApp em uso neste site (formato internacional, só dígitos)

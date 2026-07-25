@@ -77,7 +77,7 @@ $atividades = [
             </div>
 
             <div class="hero__painel">
-                <p class="hero__painel-titulo">Sua contabilidade em <strong>Marataízes – ES</strong>, na Barra do Itapemirim</p>
+                <p class="hero__painel-titulo">Sua contabilidade em <strong>Marataízes – ES</strong>, próximo a Praia Central.</p>
                 <div class="hero__stats">
                     <div class="stat"><strong>+8</strong><span>anos de atuação</span></div>
                     <div class="stat"><strong>100%</strong><span>digital e presencial</span></div>
