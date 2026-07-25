@@ -367,6 +367,7 @@ $atividades = [
     <div class="container rodape__base">
         <p>© <?= date('Y') ?> <?= htmlspecialchars($empresaLegal) ?>. CNPJ <?= htmlspecialchars($cnpj) ?>. Todos os direitos reservados.</p>
         <p class="rodape__links"><span>Política de Privacidade</span> · <span>Termos de Uso</span></p>
+        <p class="rodape__credito">Desenvolvido por <a href="https://instagram.com/dev.jeanpeixoto" target="_blank" rel="noopener">Jean Peixoto</a></p>
     </div>
 </footer>
 

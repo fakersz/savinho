@@ -470,6 +470,9 @@ h3 { font-size: 1.15rem; font-weight: 700; }
 .rodape__coluna a:hover { color: var(--azul-claro); }
 .rodape__base { border-top: 1px solid rgba(255, 255, 255, .1); padding: 1.1rem 0; text-align: center; font-size: .82rem; display: grid; gap: .4rem; }
 .rodape__links span { cursor: default; }
+.rodape__credito { opacity: .75; }
+.rodape__credito a { font-weight: 700; transition: color var(--transicao); }
+.rodape__credito a:hover { color: var(--azul-claro); }
 
 /* ===== WhatsApp flutuante (verde mantido: cor universal do app) ===== */
 .whats-flutuante {
